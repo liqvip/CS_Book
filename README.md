@@ -6,6 +6,7 @@
 5. [Android进阶解密PDF](http://blogss.cn/article/21)
 6. [Android开发艺术探索PDF](http://blogss.cn/article/16)
 7. [Flutter技术解析与实战PDF](http://blogss.cn/article/24)
+8. [Android Gradle权威指南](http://blogss.cn/article/46)
 
 ### Python
 1. [Python编程从入门到实践第二版PDF](http://blogss.cn/article/26)
@@ -13,6 +14,8 @@
 3. [利用Python进行数据分析第二版PDF](http://blogss.cn/article/33)
 4. [Python基础教程第三版PDF](http://blogss.cn/article/35)
 5. [Python核心编程第三版PDF](http://blogss.cn/article/36)
+6. [Python网络爬虫权威指南第二版]()
+7. [流畅的Python](http://blogss.cn/article/50)
 
 ### JavaScript
 1. [JavaScript高级程序设计第4版PDF](http://blogss.cn/article/25)
@@ -28,6 +31,18 @@
 
 ### Java
 1. [深入理解Java虚拟机第三版PDF](http://blogss.cn/article/34)
+2. [Java核心技术卷1基础知识第10版](http://blogss.cn/article/51)
+3. [Java核心技术卷II高级特性第10版](http://blogss.cn/article/52)
+
+### 运维&虚拟化&项目构建
+1. [Docker技术入门与实战第三版](http://blogss.cn/article/39)
+2. [Kubernetes权威指南第四版](http://blogss.cn/article/40)
+3. [shell脚本实战（第2版）](http://blogss.cn/article/45)
+4. [Maven 实战](http://blogss.cn/article/47)
+
+### 人工智能&大数据
+1. [机器学习周志华版-西瓜书](http://blogss.cn/article/41)
+2. [深度学习-花书](http://blogss.cn/article/42)
 
 ### 教材
 1. [计算机组成原理第二版唐朔飞](http://blogss.cn/article/17)
