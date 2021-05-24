@@ -46,5 +46,6 @@
 #### 8.1 [机器学习周志华版-西瓜书](http://blogss.cn/article/41)
 #### 8.2 [深度学习-花书](http://blogss.cn/article/42)
 
-### 教材
+### 其他
 #### 9.1 [计算机组成原理第二版唐朔飞](http://blogss.cn/article/17)
+#### 9.2 [编码：隐匿在计算机软硬件背后的语言](http://blogss.cn/article/57)
