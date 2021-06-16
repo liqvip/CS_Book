@@ -9,6 +9,9 @@
 #### 1.6 [Android开发艺术探索PDF](http://blogss.cn/article/16)
 #### 1.7 [Flutter技术解析与实战PDF](http://blogss.cn/article/24)
 #### 1.8 [Android Gradle权威指南](http://blogss.cn/article/46)
+#### 1.9 [Flutter实战入门](http://blogss.cn/article/54)
+#### 1.10 [Android编程权威指南第四版]()
+
 
 ### Python
 #### 2.1 [Python编程从入门到实践第二版PDF](http://blogss.cn/article/26)
@@ -30,6 +33,7 @@
 ### 算法
 #### 5.1 [漫画算法小灰的算法之旅PDF](http://blogss.cn/article/27)
 #### 5.2 [程序员代码面试指南第二版PDF](http://blogss.cn/article/22)
+#### 5.3 [算法图解—像小说一样有趣的算法入门书](http://blogss.cn/article/43)
 
 ### Java
 #### 6.1 [深入理解Java虚拟机第三版PDF](http://blogss.cn/article/34)
