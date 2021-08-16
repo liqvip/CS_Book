@@ -10,7 +10,8 @@
 #### 1.7 [Flutter技术解析与实战PDF](http://blogss.cn/article/24)
 #### 1.8 [Android Gradle权威指南](http://blogss.cn/article/46)
 #### 1.9 [Flutter实战入门](http://blogss.cn/article/54)
-#### 1.10 [Android编程权威指南第四版]()
+#### 1.10 [Android编程权威指南第四版](http://blogss.cn/article/58)
+#### 1.11 [深入浅出Vue.js](http://blogss.cn/article/59)
 
 
 ### Python
