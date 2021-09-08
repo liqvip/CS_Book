@@ -30,6 +30,7 @@
 ### 数据库
 #### 4.1 [Redis设计与实现PDF](http://blogss.cn/article/19)
 #### 4.2 [MySQL技术内幕InnoDB存储引擎第二版PDF](http://blogss.cn/article/18)
+#### 4.3 [SQL必知必会第5版](http://blogss.cn/article/60)
 
 ### 算法
 #### 5.1 [漫画算法小灰的算法之旅PDF](http://blogss.cn/article/27)
