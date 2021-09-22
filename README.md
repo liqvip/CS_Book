@@ -14,7 +14,7 @@
 #### 1.11 [深入浅出Vue.js](http://blogss.cn/article/59)
 
 
-### Python
+## Python
 #### 2.1 [Python编程从入门到实践第二版PDF](http://blogss.cn/article/26)
 #### 2.2 [看漫画学Python：有趣、有料、好玩、好用PDF](http://blogss.cn/article/28)
 #### 2.3 [利用Python进行数据分析第二版PDF](http://blogss.cn/article/33)
