@@ -31,6 +31,7 @@
 #### 4.1 [Redis设计与实现PDF](http://blogss.cn/article/19)
 #### 4.2 [MySQL技术内幕InnoDB存储引擎第二版PDF](http://blogss.cn/article/18)
 #### 4.3 [SQL必知必会第5版](http://blogss.cn/article/60)
+#### 4.4 [高性能MySQL第3版](http://blogss.cn/article/61)
 
 ### 算法
 #### 5.1 [漫画算法小灰的算法之旅PDF](http://blogss.cn/article/27)
@@ -55,3 +56,4 @@
 ### 其他
 #### 9.1 [计算机组成原理第二版唐朔飞](http://blogss.cn/article/17)
 #### 9.2 [编码：隐匿在计算机软硬件背后的语言](http://blogss.cn/article/57)
+#### 9.3 [C Primer Plus（第6版）中文版](http://blogss.cn/article/62)
