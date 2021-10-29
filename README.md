@@ -37,11 +37,13 @@
 #### 5.1 [漫画算法小灰的算法之旅PDF](http://blogss.cn/article/27)
 #### 5.2 [程序员代码面试指南第二版PDF](http://blogss.cn/article/22)
 #### 5.3 [算法图解—像小说一样有趣的算法入门书](http://blogss.cn/article/43)
+#### 5.4 [算法第4版]()
 
 ## Java
 #### 6.1 [深入理解Java虚拟机第三版PDF](http://blogss.cn/article/34)
 #### 6.2 [Java核心技术卷1基础知识第10版](http://blogss.cn/article/51)
-#### 6.3 [Java核心技术卷II高级特性第10版](http://blogss.cn/article/52)
+#### 6.3 [Java核心技术卷2高级特性第10版](http://blogss.cn/article/52)
+#### 6.4 [Java核心技术卷2高级特性第11版]()
 
 ## 运维&虚拟化&项目构建
 #### 7.1 [Docker技术入门与实战第三版](http://blogss.cn/article/39)
