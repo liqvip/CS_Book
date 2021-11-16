@@ -44,6 +44,7 @@
 #### 6.2 [Java核心技术卷1基础知识第10版](http://blogss.cn/article/51)
 #### 6.3 [Java核心技术卷2高级特性第10版](http://blogss.cn/article/52)
 #### 6.4 [Java核心技术卷2高级特性第11版](http://blogss.cn/article/63)
+#### 6.5 [深入Java虚拟机：JVM G1GC的算法与实现]
 
 ## 运维&虚拟化&项目构建
 #### 7.1 [Docker技术入门与实战第三版](http://blogss.cn/article/39)
@@ -54,6 +55,7 @@
 ## 人工智能&大数据
 #### 8.1 [机器学习周志华版-西瓜书](http://blogss.cn/article/41)
 #### 8.2 [深度学习-花书](http://blogss.cn/article/42)
+#### 8.3 [深入浅出神经网络与深度学习](http://blogss.cn/article/65)
 
 ## 其他
 #### 9.1 [计算机组成原理第二版唐朔飞](http://blogss.cn/article/17)
