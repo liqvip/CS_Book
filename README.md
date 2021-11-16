@@ -44,7 +44,7 @@
 #### 6.2 [Java核心技术卷1基础知识第10版](http://blogss.cn/article/51)
 #### 6.3 [Java核心技术卷2高级特性第10版](http://blogss.cn/article/52)
 #### 6.4 [Java核心技术卷2高级特性第11版](http://blogss.cn/article/63)
-#### 6.5 [深入Java虚拟机：JVM G1GC的算法与实现]
+#### 6.5 [深入Java虚拟机：JVM G1GC的算法与实现]()
 
 ## 运维&虚拟化&项目构建
 #### 7.1 [Docker技术入门与实战第三版](http://blogss.cn/article/39)
