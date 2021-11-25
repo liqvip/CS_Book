@@ -27,6 +27,7 @@
 ## JavaScript
 #### 3.1 [JavaScript高级程序设计第4版PDF](http://blogss.cn/article/25)
 #### 3.2 [JavaScript权威指南第6版PDF](http://blogss.cn/article/29)
+#### 3.3 [JavaScript悟道](http://blogss.cn/article/67)
 
 ## 数据库
 #### 4.1 [Redis设计与实现PDF](http://blogss.cn/article/19)
