@@ -13,6 +13,7 @@
 #### 1.10 [Android编程权威指南第四版](http://blogss.cn/article/58)
 #### 1.11 [深入浅出Vue.js](http://blogss.cn/article/59)
 #### 1.12 [精通Android网络开发](http://blogss.cn/article/66)
+#### 1.13 [深入理解Kotlin协程](http://blogss.cn/article/68)
 
 
 ## Python
@@ -40,6 +41,7 @@
 #### 5.2 [程序员代码面试指南第二版PDF](http://blogss.cn/article/22)
 #### 5.3 [算法图解—像小说一样有趣的算法入门书](http://blogss.cn/article/43)
 #### 5.4 [算法第4版](http://blogss.cn/article/64)
+#### 5.5 [算法导论原书第3版](http://blogss.cn/article/69)
 
 ## Java
 #### 6.1 [深入理解Java虚拟机第三版PDF](http://blogss.cn/article/34)
