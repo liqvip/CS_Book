@@ -5,7 +5,7 @@
 #### 1.2 [Kotlin编程权威指南](http://blogss.cn/article/31)
 #### 1.3 [Android编程权威指南第三版](http://blogss.cn/article/32)
 #### 1.4 [Kotlin核心编程水滴技术团队](http://blogss.cn/article/30)
-#### 1.5 [Android进阶解密PDF](http://blogss.cn/article/21)
+#### 1.5 [Android进阶解密](http://blogss.cn/article/21)
 #### 1.6 [Android开发艺术探索](http://blogss.cn/article/16)
 #### 1.7 [Flutter技术解析与实战](http://blogss.cn/article/24)
 #### 1.8 [Android Gradle权威指南](http://blogss.cn/article/46)
@@ -22,31 +22,31 @@
 #### 2.1 [Python编程从入门到实践第二版](http://blogss.cn/article/26)
 #### 2.2 [看漫画学Python：有趣、有料、好玩、好用PDF](http://blogss.cn/article/28)
 #### 2.3 [利用Python进行数据分析第二版](http://blogss.cn/article/33)
-#### 2.4 [Python基础教程第三版PDF](http://blogss.cn/article/35)
-#### 2.5 [Python核心编程第三版PDF](http://blogss.cn/article/36)
+#### 2.4 [Python基础教程第三版](http://blogss.cn/article/35)
+#### 2.5 [Python核心编程第三版](http://blogss.cn/article/36)
 #### 2.6 [Python网络爬虫权威指南第二版]()
 #### 2.7 [流畅的Python](http://blogss.cn/article/50)
 
 ## JavaScript
-#### 3.1 [JavaScript高级程序设计第4版PDF](http://blogss.cn/article/25)
-#### 3.2 [JavaScript权威指南第6版PDF](http://blogss.cn/article/29)
+#### 3.1 [JavaScript高级程序设计第4版](http://blogss.cn/article/25)
+#### 3.2 [JavaScript权威指南第6版](http://blogss.cn/article/29)
 #### 3.3 [JavaScript悟道](http://blogss.cn/article/67)
 
 ## 数据库
 #### 4.1 [Redis设计与实现PDF](http://blogss.cn/article/19)
-#### 4.2 [MySQL技术内幕InnoDB存储引擎第二版PDF](http://blogss.cn/article/18)
+#### 4.2 [MySQL技术内幕InnoDB存储引擎第二版](http://blogss.cn/article/18)
 #### 4.3 [SQL必知必会第5版](http://blogss.cn/article/60)
 #### 4.4 [高性能MySQL第3版](http://blogss.cn/article/61)
 
 ## 算法
-#### 5.1 [漫画算法小灰的算法之旅PDF](http://blogss.cn/article/27)
-#### 5.2 [程序员代码面试指南第二版PDF](http://blogss.cn/article/22)
+#### 5.1 [漫画算法小灰的算法之旅](http://blogss.cn/article/27)
+#### 5.2 [程序员代码面试指南第二版](http://blogss.cn/article/22)
 #### 5.3 [算法图解—像小说一样有趣的算法入门书](http://blogss.cn/article/43)
 #### 5.4 [算法第4版](http://blogss.cn/article/64)
 #### 5.5 [算法导论原书第3版](http://blogss.cn/article/69)
 
 ## Java
-#### 6.1 [深入理解Java虚拟机第三版PDF](http://blogss.cn/article/34)
+#### 6.1 [深入理解Java虚拟机第三版](http://blogss.cn/article/34)
 #### 6.2 [Java核心技术卷1基础知识第10版](http://blogss.cn/article/51)
 #### 6.3 [Java核心技术卷2高级特性第10版](http://blogss.cn/article/52)
 #### 6.4 [Java核心技术卷2高级特性第11版](http://blogss.cn/article/63)
