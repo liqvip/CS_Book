@@ -14,6 +14,8 @@
 #### 1.11 [深入浅出Vue.js](http://blogss.cn/article/59)
 #### 1.12 [精通Android网络开发](http://blogss.cn/article/66)
 #### 1.13 [深入理解Kotlin协程](http://blogss.cn/article/68)
+#### 1.14 [Android自定义控件开发入门与实战](http://blogss.cn/article/70)
+#### 1.15 [Android进阶之光](http://blogss.cn/article/71)
 
 
 ## Python
@@ -49,6 +51,7 @@
 #### 6.3 [Java核心技术卷2高级特性第10版](http://blogss.cn/article/52)
 #### 6.4 [Java核心技术卷2高级特性第11版](http://blogss.cn/article/63)
 #### 6.5 [深入Java虚拟机：JVM G1GC的算法与实现]()
+#### 6.6 [分布式Java应用：基础与实践](http://blogss.cn/article/72)
 
 ## 运维&虚拟化&项目构建
 #### 7.1 [Docker技术入门与实战第三版](http://blogss.cn/article/39)
@@ -65,3 +68,4 @@
 #### 9.1 [计算机组成原理第二版唐朔飞](http://blogss.cn/article/17)
 #### 9.2 [编码：隐匿在计算机软硬件背后的语言](http://blogss.cn/article/57)
 #### 9.3 [C Primer Plus（第6版）中文版](http://blogss.cn/article/62)
+#### 9.4 [RocketMQ分布式消息中间件：核心原理与最佳实践](http://blogss.cn/article/73)
