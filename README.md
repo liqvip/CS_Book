@@ -37,6 +37,7 @@
 #### 4.2 [MySQL技术内幕InnoDB存储引擎第二版](http://blogss.cn/article/18)
 #### 4.3 [SQL必知必会第5版](http://blogss.cn/article/60)
 #### 4.4 [高性能MySQL第3版](http://blogss.cn/article/61)
+#### 4.5 [SQL经典实例第2版](http://blogss.cn/article/74)
 
 ## 算法
 #### 5.1 [漫画算法小灰的算法之旅](http://blogss.cn/article/27)
@@ -52,6 +53,7 @@
 #### 6.4 [Java核心技术卷2高级特性第11版](http://blogss.cn/article/63)
 #### 6.5 [深入Java虚拟机：JVM G1GC的算法与实现]()
 #### 6.6 [分布式Java应用：基础与实践](http://blogss.cn/article/72)
+#### 6.7 [图解Java多线程设计模式](http://blogss.cn/article/76)
 
 ## 运维&虚拟化&项目构建
 #### 7.1 [Docker技术入门与实战第三版](http://blogss.cn/article/39)
@@ -69,3 +71,4 @@
 #### 9.2 [编码：隐匿在计算机软硬件背后的语言](http://blogss.cn/article/57)
 #### 9.3 [C Primer Plus（第6版）中文版](http://blogss.cn/article/62)
 #### 9.4 [RocketMQ分布式消息中间件：核心原理与最佳实践](http://blogss.cn/article/73)
+#### 9.5 [正则表达式必知必会（修订版）](http://blogss.cn/article/75)
